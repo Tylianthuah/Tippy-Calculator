@@ -12,4 +12,5 @@
     <color name="colorBackground">#FFFFFFFF</color>
     <color name="colorWorstTip">#DC1E0B</color>
     <color name="colorBestTip">#35BA01</color>
+    <color name ="statusBar">#07256E</color>
 </resources>
